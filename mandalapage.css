@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(199, 241, 227);
+}
+.m1{
+width: 700px;
+height: 1000px;
+border: 1px solid black;
+background-image: url(mandala11.jpeg);
+position: relative;
+left: 300px;
+border-radius: 20px;
+}
+.m2{
+    width: 700px;
+height: 1000px;
+border: 1px solid black;
+background-image: url(mandala3.jpeg);
+position: relative;
+left: 300px;
+border-radius: 20px;
+}
+.m3{
+    width: 700px;
+height: 1000px;
+border: 1px solid black;
+background-image: url(mandala4.jpeg);
+position: relative;
+left: 300px;
+border-radius: 20px;
+}
+.m4{
+    width: 700px;
+height: 1000px;
+border: 1px solid black;
+background-image: url(mandala7.jpeg);
+position: relative;
+left: 300px;
+border-radius: 20px;
+}
+.m5{
+    width: 700px;
+height: 1000px;
+border: 1px solid black;
+background-image: url(mandala8.jpeg);
+position: relative;
+left: 300px;
+border-radius: 20px;
+}
+.m6{
+    width: 700px;
+height: 1000px;
+border: 1px solid black;
+background-image: url(mandala9.jpeg);
+position: relative;
+left: 300px;
+border-radius: 20px;
+}
+h1{
+    font-size:100px;
+    text-align: center;
+}

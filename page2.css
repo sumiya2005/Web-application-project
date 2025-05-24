@@ -1,0 +1,92 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.Mandala{
+    width: 1200px;
+    height: 600px;
+    /* border: 1px solid black; */
+    position: relative;
+    left: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.Mandalabox{
+    width: 450px;
+    height: 600px;
+    /* border: 1px solid black; */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFYwYsX-YxSNcc-ypfUtTZYCnOJrudOHGAg&s);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.mt{
+    width: 200px;
+    height: 70px;
+    border: 1px solid black;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(233, 246, 49);
+    border-radius: 10px;
+}
+.mandalatxt{
+    width: 550px;
+    height: 600px;
+    /* border: 1px solid black; */
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.villagescenario{
+    width: 1200px;
+    height: 600px;
+    /* border: 1px solid black; */
+    position: relative;
+    left: 200px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.villagescenariotxt{
+    width: 550px;
+    height: 600px;
+    /* border: 1px solid black; */
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+.villagescenariobox{
+    width: 450px;
+    height: 600px;
+    /* border: 1px solid black; */
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/009/733/219/large/fazle-sam-bangladesh-village-vector-art.jpg?1520583329);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 100%;
+    
+    
+}
+.vt{
+    width: 330px;
+    height: 70px;
+    border: 1px solid black;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(233, 246, 49);
+    border-radius: 10px;
+    position: relative;
+    left: 950px;
+
+}

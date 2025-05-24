@@ -1,0 +1,17 @@
+h1{
+   text-align: center; 
+}
+.imgbr{
+    width: 1000px;
+    height: 500px;
+    border: 1px solid black;
+    position:relative;
+    left: 450px;
+    top: 100px;
+    background-image: url(https://wallpapers.com/images/hd/hd-art-man-with-zatanna-vt9nnvtj8fuqzo6s.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+

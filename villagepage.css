@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(199, 241, 227);
+}
+.s1{
+width: 1200px;
+height: 700px;
+border: 1px solid black;
+background-image: url(sc1.jpeg);
+position: relative;
+left: 50px;
+border-radius: 20px;
+}
+.s2{
+    width: 1200px;
+    height: 700px;
+border: 1px solid black;
+background-image: url(sc2.jpeg);
+position: relative;
+left: 50px;
+border-radius: 20px;
+}
+.s3{
+    width: 1200px;
+height: 700px;
+border: 1px solid black;
+background-image: url(sc3.jpeg);
+position: relative;
+left: 50px;
+border-radius: 20px;
+}
+.s4{
+    width: 1200px;
+height: 700px;
+border: 1px solid black;
+background-image: url(sc4.jpeg);
+position: relative;
+left: 50px;
+border-radius: 20px;
+}
+.s5{
+    width: 1200px;
+    height: 700px;
+border: 1px solid black;
+background-image: url(sc5.jpeg);
+position: relative;
+left: 50px;;
+border-radius: 20px;
+}
+.s6{
+    width: 1200px;
+height: 700px;
+border: 1px solid black;
+background-image: url(sc6.jpeg);
+position: relative;
+left: 50px;
+border-radius: 20px;
+}
+.s7{
+    width: 1200px;
+height: 700px;
+border: 1px solid black;
+background-image: url(sc7.jpeg);
+position: relative;
+left: 50px;
+border-radius: 20px;
+}
+.s8{
+    width: 1200px;
+    height: 700px;
+border: 1px solid black;
+background-image: url(sc8.jpeg);
+position: relative;
+left: 50px;
+border-radius: 20px;
+}
+.s9{
+    width: 1200px;
+    height: 700px;
+border: 1px solid black;
+background-image: url(sc9.jpeg);
+position: relative;
+left: 50px;
+border-radius: 20px;
+}
+h1{
+    font-size:100px;
+    text-align: center;
+}
